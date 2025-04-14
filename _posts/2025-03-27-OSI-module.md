@@ -25,7 +25,7 @@ categories: media
 <h1>Data Encapsulation and Decapsulation</h1>
 
 
-<h3>Addressing</h3>
+<h2>Addressing</h2>
 Is a uniques identifier for the network nodes, such as MAC address, IPv4 or IPv6 address. The addressing defines where the data should go. Each OSI model layer have different mechanisms for identifying nodes, and rules for how they can send and receive data.
 
 <h2>Encapsulation</h2>
