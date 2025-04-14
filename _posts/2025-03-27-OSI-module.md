@@ -11,7 +11,7 @@ categories: media
 
 <h1>OSI Layers</h1>
 
-| Layers             | Numbers      |            |
+| Layers             | Numbers      |    PDU     |
 | ---------------    | ------------ | ---------- |
 | Physical layer     |  Layer 1     | Bits       |
 | Data Link layer    |  Layer 2     | Frames     |
