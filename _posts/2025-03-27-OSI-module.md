@@ -10,8 +10,8 @@ categories: media
 - there are devices and protocols working at each layers<br>
 
 <h1>OSI Layers</h1>
-| Layers | Numbers | Third table|
-|-------|--------|---------|
+| Layers          | Numbers      | Third table|
+| --------------- | ------------ | ---------- |
 | Physical layer | Layer 1 |
 | Data Link layer | Layer 2 |
 | Network layer | Layer 3 |
