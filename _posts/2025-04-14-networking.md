@@ -26,3 +26,4 @@ An appliance is a computer with an operating system and software designed to per
 
 <h4>Functions :-</h4>  Networks can be configured with additional properties to perform different functions. EG the security properties of a virtual private network allow devices to join a local network from across the internet.
 
+>reference: Comptia Network plus (certmaster learning)
