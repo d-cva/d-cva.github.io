@@ -112,3 +112,5 @@ Application layer doesn’t encapsulate or decapsulate the data or provide any s
 
 
 
+>reference: Comptia Network plus (certmaster learning)
+
