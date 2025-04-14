@@ -11,12 +11,12 @@ categories: media
 
 <h1>OSI Layers</h1>
 
-| Layers             | Numbers      | Third table|
+| Layers             | Numbers      |            |
 | ---------------    | ------------ | ---------- |
-| Physical layer     |  Layer 1     |            |
-| Data Link layer    |  Layer 2     |            |
-| Network layer      |  Layer 3     |            |
-| Transport layer    |  Layer 4     |            |
-| Session layer      |  Layer 5     |            |
-| presentation layer | Layer 6      |            |
-| Application layer  | Layer 7      |            |
+| Physical layer     |  Layer 1     | Bits       |
+| Data Link layer    |  Layer 2     | Frames     |
+| Network layer      |  Layer 3     | Packets    |
+| Transport layer    |  Layer 4     | Segments   |
+| Session layer      |  Layer 5     | Data       |
+| presentation layer | Layer 6      | Data       |
+| Application layer  | Layer 7      | Data       |
