@@ -10,12 +10,12 @@ categories: media
 - there are devices and protocols working at each layers<br>
 
 <h1>OSI Layers</h1>
-| Layers          | Numbers      | Third table|
-| --------------- | ------------ | ---------- |
-| Physical layer | Layer 1 |
-| Data Link layer | Layer 2 |
-| Network layer | Layer 3 |
-| Transport layer | Layer 4| 
-| Session layer | Layer 5 |
-| presentation layer | Layer 6 |
-| Application layer | Layer 7 |
+| Layers             | Numbers      | Third table|
+| ---------------    | ------------ | ---------- |
+| Physical layer     |  Layer 1     |            |
+| Data Link layer    |  Layer 2     |            |
+| Network layer      |  Layer 3     |            |
+| Transport layer    |  Layer 4     |            |
+| Session layer      |  Layer 5     |            |
+| presentation layer | Layer 6      |            |
+| Application layer  | Layer 7      |            |
