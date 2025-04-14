@@ -101,11 +101,11 @@ the upper layer session, presentation and application layers are associated with
 
 In real-world the applications require to exchange multiple messages between the hosts, or the server and the clients. The messages are exchanged in sequences, the sequence of exchanging the messages is called session or dialog. Session layer establish this dialog session maintaining the data transfer or exchange and upon completion session layer destroys this concurrent session with the hosts. 
 
-<h1>Layer 6 - Presentation:</h1>
+<h2>Layer 6 - Presentation:</h2>
 
 Presentation layer is the sixth layer in OSI model and mostly involves with the data. As the data to this point can be in different formats that are required as per multiple protocols. The main function of this layer is to assemble the payload data as per the requirement of the application layer. This layer translates the data that the application layer understands such as data unicode. Data encryption, data formatting, data compression are the functions of this layer.
 
-<h1>layer 7 - Application:</h1>
+<h2>layer 7 - Application:</h2>
 
 Application layer doesn’t encapsulate or decapsulate the data or provide any service to the protocols. Application layer provides an interface to the software application on the network hosts that have established communication channels through lower-level protocols to exchange data.
 
