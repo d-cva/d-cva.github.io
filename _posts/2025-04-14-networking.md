@@ -22,7 +22,7 @@ Peer to peer is a decentralized network where the hosts acts as both client and 
 
 An appliance is a computer with an operating system and software designed to perform a particular network role. EG: router switch, wireless access point.
 
-<strong>Applications: -</strong> The nodes and links of networking infrastructure are deployed to run services. Services are shared applications that allow the network to do useful work, such as sharing files or allowing employees to send email.
+Applications: - The nodes and links of networking infrastructure are deployed to run services. Services are shared applications that allow the network to do useful work, such as sharing files or allowing employees to send email.
 
-<strong>Functions :-</strong>  Networks can be configured with additional properties to perform different functions. EG the security properties of a virtual private network allow devices to join a local network from across the internet.
+Functions :-  Networks can be configured with additional properties to perform different functions. EG the security properties of a virtual private network allow devices to join a local network from across the internet.
 
