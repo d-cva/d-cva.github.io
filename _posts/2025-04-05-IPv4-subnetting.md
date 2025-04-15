@@ -50,4 +50,27 @@ There are few other IPv4 address ranges are reserved for special use and are not
 - 100.64.0.0/10, 192.0.0.0/24. 192.88.99.0/24. 198.18.0.0/15 set aside for a variety of special purpose
 - 192.0.2.0/24. 198.51.100.0/24, 203.0.113.0/24 set aside for use in documentation and examples.
 
+<h1>When planning an IPv4 network addressing scheme:</h1>
+
+- The number of IP networks and subnetworks required must be considered.
+- The number of hosts per subnet that must be considered.
+- The network ID must be from a valid public or a private range (not from the loopback, link local reserved range, multicast range, or reserved/experimental range, for instance).
+- The network and/or host IDs cannot be all 1s in binary -this is reserved for broadcasts
+- The network and/or host ID cannot be all 0s, in binary; 0 means “this network”
+- Each host ID must be unique on the IP network or subnet.
+- The network ID must be unique on the Internet or on your internal system of internetwork
+
+When you are performing subnet calculations, try to think in terms of the number of mask bits. IT helps to remember that each power of 2 is double the previous one:
+
+| 2<sup>2</sup>  | 2<sup>3</sup>  |  2<sup>4</sup>  |  2<sup>5</sup>  |  2<sup>6</sup>  |  2<sup>7</sup>  |  2<sup>8</sup>  | 
+| -------------- | -------------- |  -------------- |  -------------- |  -------------- |  -------------- |  -------------- |
+|       4        |       8        |       16        |        32       |      64         |        128      |        256      |
+
+
+Also memorize the decimal values for the numbers of bits set to 1 in an octet within a mask:
+
+|       1        |      2         |       3         |        4        |      5          |        6        |        7        |       8         |
+| -------------- | -------------- |  -------------- |  -------------- |  -------------- |  -------------- |  -------------- |  -------------- |
+|       128      |     192        |       224       |        240      |      248        |        252      |        256      |      255        | 
+
 
