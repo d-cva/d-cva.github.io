@@ -72,6 +72,6 @@ If the ping are unseuccessful,
 - ping can be used to force the ipv4 or IPv6 host record by using the switch -4 or -6
 - ping can be used by -t switch to ping the host until interrupted
 
-
+<br><br><br>
 >reference: comptia network plus (certmaster)
 
