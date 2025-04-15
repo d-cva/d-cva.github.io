@@ -1,7 +1,7 @@
 ---
 title: "Ip Version 4 subnetting"
 mathjax: true
-category:media
+category: media
 layout: post
 ---
 <h1>Clasfull Addressing</h1>
