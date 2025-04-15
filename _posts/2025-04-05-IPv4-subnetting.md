@@ -1,5 +1,5 @@
 ---
-title: "Ip Version 4 Subnetting"
+title: "IP Version 4 Subnetting"
 mathjax: true
 layout: post
 category: media
