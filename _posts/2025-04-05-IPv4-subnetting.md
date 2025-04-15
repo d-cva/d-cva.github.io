@@ -74,3 +74,5 @@ Also memorize the decimal values for the numbers of bits set to 1 in an octet wi
 |       128      |     192        |       224       |        240      |      248        |        252      |        256      |      255        | 
 
 
+
+
