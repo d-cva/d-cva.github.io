@@ -13,3 +13,14 @@ displays the few of them:
 | Command                     | Description                                                                           |
 | --------------------------- | ------------------------------------------------------------------------------------- |
 | ipconfig                    | Display the IP address, subnet mask, default gateway, for all network interfaces to which TCP/IP is bound|
+| ipconfig /all                | Displays complete TCP/IP configuraiton parameters for each interface, including DHCP information and MAC address |
+| ipconfig /renew              | Forces the DHCP client to renew the lease it has for the IP address                          |
+| ipconfig /release            | Releases the IP address obtained from a DHCP server                                          |
+| ipconfig /displaydns         | Displays dns resolver cache    |
+| ipconfig /flushdns           |  Clears the DNS resolver cache  |
+| ipconfig /registerdns        | 	Resisters the host with a DNS server |
+
+
+
+	
+
