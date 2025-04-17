@@ -34,10 +34,10 @@ Assessment: Verify connectivity by pinging the file server from each employee’
 <code>
 
 #enable   -- enter privilege mode
-#configure terminal -- enter global configuration mode
-#interface g 0/0/0 -- select the interface
-#ip address 192.168.10.1 255.255.255.0 -- assign IP address to the interface
-#no shutdown -- enable the interface
-#do show interface g 0/0/0 -- use do show command to view the interface configuration from the global configuraiton mode.
+#configure terminal -- enter global configuration mode<br>
+#interface g 0/0/0 -- select the interface<br>
+#ip address 192.168.10.1 255.255.255.0 -- assign IP address to the interface<br>
+#no shutdown -- enable the interface<br>
+#do show interface g 0/0/0 -- use do show command to view the interface configuration from the global configuraiton mode.<br>
 </code>
 
