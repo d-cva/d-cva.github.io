@@ -23,8 +23,8 @@ Lab Steps:
 Assessment: Verify connectivity by pinging the file server from each employee’s computer and accessing the printer. Ensure that wireless devices can connect to the network with appropriate security settings.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<a href src="https://d-cva.github.io/assets/img/simple-network.png">Logical Design image</a>
-<a href src="https://d-cva.github.io/assets/img/simple-network1.png">Physical Design image</a>
+<a href url="https://d-cva.github.io/assets/img/simple-network.png">Logical Design image</a>
+<a href url="https://d-cva.github.io/assets/img/simple-network1.png">Physical Design image</a>
 
 <h2>Simple Office Network Design</h2>
 <h3>Core Router Configuration<h3>
