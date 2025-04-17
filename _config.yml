@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Notes", file: "blog.md"}
-  - {title: "Labs", file: "2025-04-17-Office-Network-design.md"}
+  - {title: "Labs", file: "_posts/2025-04-17-Office-Network-design.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   #- {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
