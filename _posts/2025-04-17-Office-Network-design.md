@@ -27,7 +27,7 @@ Assessment: Verify connectivity by pinging the file server from each employee’
 <a href url="/assets/img/simple-network1.png">Physical Design image</a>
 
 <h2>Simple Office Network Design</h2>
-<italic><h3>Core Router Configuration<h3></italic>
+<h3>Core Router Configuration<h3>
 - change host name to R1
 - assign IP address to g 0/0/0 interface (internal)
 - enable the interface
