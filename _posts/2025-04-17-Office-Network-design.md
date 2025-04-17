@@ -1,10 +1,10 @@
 ---
-title: "Office Network Design and Implementation"
+title: "Office Network Design and Implementation - lab1"
 mathjax: true
 layout: page
 category: media
 ---
-<h1>Office Network Design and Implementation</h1>
+<h1>Office Network Design and Implementation - lab1</h1>
 <h2>Requirements</h2>
 Scenario:
 A small accounting firm has just moved into a new office space. The firm employs eight staff members, each requiring access to shared network resources such as a printer, file server, and the internet. The office space is divided into two rooms, and there is a requirement for both wired and wireless connectivity. As the network administrator, your task is to design and implement the network using appropriate Ethernet standards, configure the wireless access points, and ensure all devices are connected and can communicate effectively.
