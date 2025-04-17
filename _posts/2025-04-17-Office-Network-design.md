@@ -24,8 +24,8 @@ Assessment: Verify connectivity by pinging the file server from each employee’
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <a href url="https://d-cva.github.io/assets/img/simple-network.png">Logical Design image</a>
-<a ({{site.url}}/assets/img/simple-network1.png)>Physical Design image</a>
-<a ({{site.url}}/assets/labs/simple-office-network.pkt>Simple network (lab1) packet tracer file</a>
+<a href url="https://d-cva.github.io/assets/img/simple-network1.png">Physical Design image</a>
+<a href url="https://d-cva.github.io/assets/labs/simple-office-network.pkt">Simple network (lab1) packet tracer file</a>
 
 <h2>Simple Office Network Design</h2>
 <h3>Core Router Configuration<h3>
