@@ -28,12 +28,12 @@ Assessment: Verify connectivity by pinging the file server from each employee’
 <a href url="https://d-cva.github.io/assets/labs/simple-office-network.pkt">Simple network (lab1) packet tracer file</a>
 
 <h2>Simple Office Network Design</h2>
-<h3>Core Router Configuration<h3>
+<h3>Core Router Configuration</h3>
 - change host name to R1<br>
 - assign IP address to g 0/0/0 interface (internal)<br>
 - enable the interface<br>
-<code>
 
+<code>
 #enable   -- enter privilege mode
 #configure terminal -- enter global configuration mode<br>
 #hostname R1 -- change hostname to R1
