@@ -24,7 +24,7 @@ Assessment: Verify connectivity by pinging the file server from each employee’
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h2>Simple Office Network Design</h2>
+<h2>Simple Office Network Design</h2><br>
 <h3>Core Router Configuration<h3>
 - change host name to R1
 - assign IP address to g 0/0/0 interface (internal)
@@ -38,3 +38,4 @@ Assessment: Verify connectivity by pinging the file server from each employee’
 #no shutdown -- enable the interface
 #do show interface g 0/0/0 -- use do show command to view the interface configuration from the global configuraiton mode.
 </code>
+
