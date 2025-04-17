@@ -81,7 +81,7 @@ wep: 74c46c67d4<br>
 
 
 
-<h2> Device location and Connection Map Room 1</h3>
+<h2> Device location and Connection Map Room 1</h2>
 
 | Host              | SW1 interface | 
 | ----------------- | ------------- |
@@ -93,7 +93,7 @@ wep: 74c46c67d4<br>
 | admin-01          | fa 0/3        |
 | fin-02            | fa 0/6        |
 
-<h2> Device location and Connection Map Room 2</h3>
+<h2> Device location and Connection Map Room 2</h2>
 
 | Host              | SW1 interface | 
 | ----------------- | ------------- |
