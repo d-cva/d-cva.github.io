@@ -21,3 +21,6 @@ Lab Steps:
 8. Document the configuration settings for future reference.
 
 Assessment: Verify connectivity by pinging the file server from each employee’s computer and accessing the printer. Ensure that wireless devices can connect to the network with appropriate security settings.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
