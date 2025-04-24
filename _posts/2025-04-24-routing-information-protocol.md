@@ -44,13 +44,13 @@ note: To check the route in cisco router:
 	- show ip protocols
 
 <code>
-RIP configuration:
-Routing protocol configuration:
-#router rip
-#network 10.10.10.0
-#network 172.16.10.0
-#version 2
-#no auto-summary
+RIP configuration:<br>
+Routing protocol configuration:<br>
+#router rip<br>
+#network 10.10.10.0<br>
+#network 172.16.10.0<br>
+#version 2<br>
+#no auto-summary<br>
 </code>
 
 > reference "https://www.geeksforgeeks.org/routing-information-protocol-rip/"
