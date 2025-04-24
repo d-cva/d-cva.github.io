@@ -4,7 +4,7 @@ mathjax: true
 layout: post
 category: media
 ---
-<h1>Open Shortest Path First (OSPF) <h1>
+<h1>Open Shortest Path First (OSPF) </h1>
 
 - OSPF is a link state protocol, it make use of the neighbor table, topology table, and routing table.
 - works on network layer
