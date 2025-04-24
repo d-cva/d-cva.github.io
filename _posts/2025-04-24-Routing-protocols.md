@@ -20,13 +20,13 @@ category: media
 - OSPF does adjacent layer interaction, meaning each neighbor routers share all the routing information they have.
 
 <h1>Border Gateway Protocol(BGP)</h1>
-- BGP is used to route between domains in a mesh internetwork
-- BGP is primarily used for routing between autonomous systems.
+- BGP is used to route between domains in a mesh internetwork<br>
+- BGP is primarily used for routing between autonomous systems.<br>
 - An ASN or autonomous system number are allocated by IANA via the various regional registries.
-- An AS hides the private networks from the public Internet. 
-- BGP works with classless network prefixes called Network Layer Reachability Information (NLRI)
-- Path selection is based on multiple metrics, including hop count, weight, local preference, origin, and community. 
-- BGP works over TCP on port 179
+- An AS hides the private networks from the public Internet. <br>
+- BGP works with classless network prefixes called Network Layer Reachability Information (NLRI)<br>
+- Path selection is based on multiple metrics, including hop count, weight, local preference, origin, and community. <br>
+- BGP works over TCP on port 179<br>
 
 <h2>Route Selection:</h2>
 
