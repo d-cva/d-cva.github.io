@@ -4,7 +4,7 @@ mathjax: true
 layout: post
 category: media
 ---
-
+<h1>Routing Information Protocol (RIP)</h1>
 - RIP is a routing protocol that uses hop count as a routing metric to find the best path between the source and the destination network.
 - the maximum hop count allowed is 15 
 - it is mostly used in small to medium sized network
