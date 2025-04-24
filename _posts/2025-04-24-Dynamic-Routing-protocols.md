@@ -28,3 +28,4 @@ category: media
 - Interior Gateway Protocol (IGP) is one that identifies routes within as AS.
 - An Exterior Gateway Protocol (EGP) is one that can advertise routes between autonomous systems.
 - An EGP includes a field to communicate the network’s autonomous system ID and allows network owners to determine whether they can use paths through another organization’s network.
+
