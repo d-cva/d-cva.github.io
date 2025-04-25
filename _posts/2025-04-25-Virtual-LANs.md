@@ -2,7 +2,7 @@
 title: "Virtual LANs"
 mathjax: true
 category: media
-layout:post
+layout: post
 ---
 <h1>Virtual LANs and Subnets</h1>
 - VLANs operate at layer 2
