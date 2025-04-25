@@ -1,8 +1,8 @@
 ---
 title: "Virtual LANs"
 mathjax: true
-category: media
 layout: post
+category: media
 ---
 <h1>Virtual LANs and Subnets</h1>
 - VLANs operate at layer 2
@@ -107,5 +107,5 @@ To assign the interface to the vlan:
 #IP address 192.168.0.1 255.255.255.0<br>
 </code>
 
-
+<br><br>
 >ref: certMaster Network plus
