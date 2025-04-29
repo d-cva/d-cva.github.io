@@ -57,7 +57,7 @@ g0/0/0.32 VLAN 32 192.168.1.1
 <img src="https://d-cva.github.io/assets/img/Subinterface.png" alt="Subinterface">
 </figure><br>
 
-<h2>SW1 configuration:</h2><br>
+<h2>SW1 configuration:</h2>
 <code>
 #vlan 16 <br>
 #name tech <br>
