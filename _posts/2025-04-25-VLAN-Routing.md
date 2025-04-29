@@ -84,3 +84,4 @@ R1 configuration: <br>
 #encapsulation dot1q 32 <br>
 #IP address 192.168.1.1 255.255.255.0<br>
 </code>
+<br><br>download the packet tracert lab file: (https://github.com/d-cva/d-cva.github.io/blob/master/assets/labs/vlanrouting-subinterface.pkt)
