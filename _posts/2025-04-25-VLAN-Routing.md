@@ -53,7 +53,7 @@ Router (R1) configuration:
 g0/0/0.16  VLAN 16 192.168.0.1
 g0/0/0.32 VLAN 32 192.168.1.1
 
-<h2><figure><figurecaption>Subinterface</figurecaption></h2>
+<figure><figurecaption><h3>Subinterface</h3></figurecaption>
 <img src="https://d-cva.github.io/assets/img/Subinterface.png" alt="Subinterface">
 </figure><br>
 
