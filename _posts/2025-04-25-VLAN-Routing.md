@@ -59,30 +59,30 @@ g0/0/0.32 VLAN 32 192.168.1.1
 
 SW1 configuration:
 
-#vlan 16
-#name tech
-#interface range FastEthernet 0/0-3 
-#switchport mode access
-#swtichport access VLAN 16
+#vlan 16 <br>
+#name tech <br>
+#interface range FastEthernet 0/0-3 <br>
+#switchport mode access <br>
+#swtichport access VLAN 16<br>
 
-#vlan 32
-#name office
-#interface range FastEthernet 0/4-6
-#switchport mode access
-#switchport access VLAN 32
+#vlan 32 <br>
+#name office <br>
+#interface range FastEthernet 0/4-6 <br>
+#switchport mode access <br>
+#switchport access VLAN 32 <br>
 
-#interface GigabitEthernet 0/1
-#switchport mode trunk
-#switchport trunk allowed VLAN 16,32
+#interface GigabitEthernet 0/1 <br>
+#switchport mode trunk <br>
+#switchport trunk allowed VLAN 16,32<br>
 
-R1 configuration:
-#interface g0/0/0.16
-#encapsulation dot1q 16
-#IP address 192.168.0.1 255.255.255.0
-#no shut
-#interface g 0/0/0.32
-#encapsulation dot1q 32
-#IP address 192.168.1.1 255.255.255.0
+R1 configuration: <br>
+#interface g0/0/0.16 <br>
+#encapsulation dot1q 16 <br>
+#IP address 192.168.0.1 255.255.255.0<br>
+#no shut<br>
+#interface g 0/0/0.32<br>
+#encapsulation dot1q 32 <br>
+#IP address 192.168.1.1 255.255.255.0<br>
 
 
 
