@@ -53,12 +53,12 @@ Router (R1) configuration:
 g0/0/0.16  VLAN 16 192.168.0.1
 g0/0/0.32 VLAN 32 192.168.1.1
 
-<figure><figurecaption>Subinterface</figurecaption>
+<h2><figure><figurecaption>Subinterface</figurecaption></h2>
 <img src="https://d-cva.github.io/assets/img/Subinterface.png" alt="Subinterface">
 </figure><br>
 
 SW1 configuration:
-
+<code>
 #vlan 16 <br>
 #name tech <br>
 #interface range FastEthernet 0/0-3 <br>
@@ -83,8 +83,4 @@ R1 configuration: <br>
 #interface g 0/0/0.32<br>
 #encapsulation dot1q 32 <br>
 #IP address 192.168.1.1 255.255.255.0<br>
-
-
-
-
-
+</code>
