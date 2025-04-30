@@ -1,6 +1,6 @@
 ---
 layout: default
-title: resume
+title: "Resume"
 ---
 
-<src "/assets/other_folder/resume.pdf"/>
+<src "https://d-cva.github.io/assets/other_folder/resume.pdf"/>
