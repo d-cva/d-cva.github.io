@@ -2,7 +2,7 @@
 layout: default
 title: "Home"
 ---
-bio 2
+bio 3
 <embed 
 src = "https://d-cva.github.io/assets/other_folder/shiva.pdf"
 type="application/pdf"
