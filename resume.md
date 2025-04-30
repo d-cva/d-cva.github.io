@@ -2,5 +2,8 @@
 layout: default
 title: "Home"
 ---
-bio 1
-<img src="https://d-cva.github.io/assets/other_folder/shiva.pdf"></img>
+bio 2
+<embed 
+src = "https://d-cva.github.io/assets/other_folder/shiva.pdf"
+type="application/pdf"
+/>
