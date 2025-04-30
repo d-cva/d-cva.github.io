@@ -4,4 +4,4 @@ title: "Resume"
 ---
 
 test
-<src "https://d-cva.github.io/assets/other_folder/resume.pdf"/>
+<embed src "https://d-cva.github.io/assets/other_folder/resume.pdf" type="application/pdf">
